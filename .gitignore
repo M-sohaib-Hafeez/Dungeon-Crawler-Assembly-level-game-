@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+Debug/
+Release/
+x64/
+*.obj
+*.ilk
+*.pdb
+*.exe
+!bin/*.exe
+*.tlog
+*.recipe
+*.lastbuildstate
+
+# Game data created at runtime
+savegame.dat
+highscore.dat
