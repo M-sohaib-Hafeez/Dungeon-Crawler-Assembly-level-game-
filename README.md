@@ -164,7 +164,7 @@ To regenerate: `python genmaps.py` (run it in the project folder with the `.asm`
 | **Muhammad Sohaib Hafeez** — game design & development | [@M-sohaib-Hafeez](https://github.com/M-sohaib-Hafeez) |
 | **Dua Sohail** — testing, bug fixes & game features | [@Dua-Sohail](https://github.com/Dua-Sohail) |
 
-**Dua Sohail** tested the whole game and all of its code: she did the user-side testing and bug fixing, suggested changes to the code and to the game's functions, contributed game features, and handled quality assurance. Thank you!
+**Dua Sohail** led user-side testing and QA, identified and fixed bugs, recommended code and gameplay improvements, and contributed key game features to enhance overall functionality and user experience. Thank you!
 
 ---
 
