@@ -170,4 +170,4 @@ To regenerate: `python genmaps.py` (run it in the project folder with the `.asm`
 
 ## 📜 License
 
-Add a license of your choice (for example MIT) before sharing this project publicly.
+This project is licensed under the [MIT License](LICENSE).
